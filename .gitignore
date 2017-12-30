@@ -4,3 +4,4 @@ virtualenv
 .ropeproject
 __pycache__
 *.pyc
+./static
